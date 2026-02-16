@@ -1,0 +1,11 @@
+#text-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 200px;
+  white-space: pre-wrap;
+  font-family: sans-serif;
+  cursor: text;
+}
+.highlight {
+  background-color: yellow;
+}

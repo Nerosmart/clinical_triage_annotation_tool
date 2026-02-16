@@ -1,0 +1,6 @@
+Patient admitted with urinary sepsis.  
+Telemetry shows intermittent atrial fibrillation with spontaneous reversion to sinus rhythm.  
+No chest pain or haemodynamic compromise.  
+No anticoagulation history.
+
+Requesting outpatient cardiology review for stroke prevention assessment.

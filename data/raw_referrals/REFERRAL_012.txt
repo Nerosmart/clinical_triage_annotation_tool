@@ -1,0 +1,5 @@
+Patient is a 63-year-old female presenting with sudden palpitations and shortness of breath. 
+ECG shows supraventricular tachycardia at 180 bpm. 
+Vagal manoeuvres unsuccessful. Adenosine given with partial response.
+
+Requesting urgent cardiology review for further management.

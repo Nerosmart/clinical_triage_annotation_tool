@@ -1,0 +1,5 @@
+Patient is a 54-year-old female presenting with palpitations and dizziness. 
+ECG shows atrial fibrillation with a ventricular rate of 140 bpm. 
+Blood pressure stable. No chest pain. No anticoagulation history.
+
+Requesting cardiology review for rate control and anticoagulation initiation.

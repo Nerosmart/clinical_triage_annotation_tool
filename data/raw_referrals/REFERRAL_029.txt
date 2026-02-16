@@ -1,0 +1,6 @@
+Patient admitted with COPD exacerbation.  
+Telemetry shows frequent PVCs but no sustained arrhythmia.  
+Electrolytes corrected.  
+No syncope or chest pain.
+
+Query whether outpatient cardiology follow-up is required.

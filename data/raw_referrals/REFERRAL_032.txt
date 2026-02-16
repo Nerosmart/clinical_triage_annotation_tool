@@ -1,0 +1,6 @@
+Patient presents with palpitations and shortness of breath. 
+ECG shows atrial fibrillation with rapid ventricular response (HR 150). 
+BP stable. No chest pain.  
+No previous arrhythmia history.
+
+Requesting urgent cardiology review for rate control.

@@ -1,0 +1,5 @@
+Patient admitted with pneumonia.  
+During admission, noted to have frequent ectopic beats on telemetry.  
+No chest pain or syncope.  
+Electrolytes normal.  
+Query whether outpatient cardiology follow-up is required.

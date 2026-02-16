@@ -1,0 +1,7 @@
+Patient presents with palpitations and dizziness. 
+ECG shows atrial fibrillation with rapid ventricular response (HR 160). 
+BP borderline at 98/60.  
+No chest pain.  
+No anticoagulation history.
+
+Urgent cardiology review requested.

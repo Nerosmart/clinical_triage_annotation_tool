@@ -1,0 +1,6 @@
+Patient presents with acute chest pain radiating to the jaw. 
+Troponin elevated at 120.  
+ECG shows ST elevation in inferior leads.  
+Thrombolysis not indicated. Haemodynamically stable.
+
+Urgent cardiology input requested for suspected STEMI.

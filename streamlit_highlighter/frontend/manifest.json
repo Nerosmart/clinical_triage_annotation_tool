@@ -1,0 +1,8 @@
+{
+  "name": "highlighter",
+  "version": "0.1.0",
+  "description": "A custom text highlighter component for Streamlit",
+  "frontend": {
+    "entrypoint": "index.html"
+  }
+}

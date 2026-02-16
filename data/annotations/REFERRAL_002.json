@@ -1,0 +1,10 @@
+{
+    "file": "REFERRAL_002.txt",
+    "spans": [],
+    "triage_decisions": {
+        "accept": "Yes",
+        "urgency": "Routine",
+        "timescale": "1 week",
+        "clinic": "General"
+    }
+}

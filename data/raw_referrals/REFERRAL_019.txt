@@ -1,0 +1,5 @@
+Patient admitted with sepsis.  
+Telemetry shows occasional runs of non-sustained VT.  
+Electrolytes corrected.  
+No chest pain or syncope.  
+Cardiology advice requested regarding need for follow-up.

@@ -1,0 +1,10 @@
+{
+    "file": "REFERRAL_001.txt",
+    "spans": [],
+    "triage_decision": {
+        "accept": "Accept",
+        "urgency": "Routine",
+        "timescale": "N/A",
+        "clinic": "Chest Pain"
+    }
+}
